@@ -86,7 +86,7 @@ Sample output of lane detection (green overlay = detected lanes):
 ---
 
 ## 🎥 Demo Video
-👉 [Watch Demo Video]([/lane_detection_using_unet.mp4](https://github.com/offoabhii/Lane_detection_using_U-Net/blob/main/lane_detection_presentation.mp4]s)
+👉 [Watch Demo Video]([/lane_detection_using_unet.mp4](https://github.com/offoabhii/Lane_detection_using_U-Net/blob/main/lane_detection_presentation.mp4))
 
 ---
 
