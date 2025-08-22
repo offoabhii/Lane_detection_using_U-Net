@@ -86,7 +86,7 @@ Sample output of lane detection (green overlay = detected lanes):
 ---
 
 ## 🎥 Demo Video
-👉 [Watch Demo Video](https://github.com/your-username/lane_detection_using_unet/releases/latest)
+👉 [Watch Demo Video](/lane_detection_using_unet.mp4)
 
 ---
 
