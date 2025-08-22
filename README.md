@@ -63,7 +63,7 @@ This launches a Gradio web app with three modes:
 
 Here’s the Gradio-based UI of the project:
 
-![User Interface Screenshot](assets/ui.png)
+![User Interface Screenshot](/ui.png)
 
 *(Replace `assets/ui.png` with your actual screenshot path)*
 
