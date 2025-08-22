@@ -39,12 +39,6 @@ cd lane_detection_using_unet
 pip install -r requirements.txt
 ```
 
-### 3️⃣ Download pretrained weights
-Download the trained U-Net weights from **GitHub Releases**:  
-👉 [Download `unet_road_lane_best.h5`](https://github.com/your-username/lane_detection_using_unet/releases/latest)
-
-Place the file in the **project root folder**.
-
 ---
 
 ## 🚀 Run the App
@@ -65,7 +59,6 @@ Here’s the Gradio-based UI of the project:
 
 ![User Interface Screenshot](/ui.png)
 
-*(Replace `assets/ui.png` with your actual screenshot path)*
 
 ---
 
@@ -91,8 +84,7 @@ Sample output of lane detection (green overlay = detected lanes):
 ---
 
 ## 📌 Notes
-- The model is trained on a custom lane dataset.
-- Pretrained weights (`.h5`) and demo video (`.mp4`) are hosted under **Releases** to keep the repo lightweight.
+- The model is trained on a TUSimple lane detection dataset.
 - You can retrain the model using the `final_project.ipynb` notebook.
 
 ---
