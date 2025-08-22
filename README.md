@@ -16,6 +16,11 @@ lane_detection_using_unet/
 │   ├── training/
 │   ├── prediction/
 │   └── prediction_refined/
+│── old_dataset/                # Tu Simple lane prediction dataset
+│   ├── TUSimple/
+├         ├── train_set
+├         ├── test_set
+├         ├── test_label
 │── .gitignore                  # Keeps repo clean
 ```
 
