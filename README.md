@@ -73,7 +73,7 @@ Here’s the Gradio-based UI of the project:
 
 Sample output of lane detection (green overlay = detected lanes):
 
-![Prediction Example](new_dataset/prediction/0313-1_5480.jpg)
+![Prediction Example](/prediction_example.jpg)
 
 ---
 
