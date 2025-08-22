@@ -1,0 +1,27 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+.venv/
+env/
+venv/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore large datasets
+old_dataset/
+new_dataset/
+
+# Ignore large weight and video files (to keep repo light)
+*.mp4
+*.h5
+*.avi
+*.mov
+
+# OS-specific files
+.DS_Store
+Thumbs.db
